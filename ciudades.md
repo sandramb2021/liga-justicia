@@ -2,4 +2,4 @@
 
 1. Ciudad Gótica
 2. Metrópolis
-3
+3. Puerto Paleta
